@@ -38,7 +38,7 @@ function ItemListContainer({greeting}) {
         <Card.Text>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor, autem? Dolores repudiandae necessitatibus doloremque quo. Tempore quibusdam culpa nam. Quasi unde quisquam id facere officiis mollitia tempora perferendis ea minus!</p>
         </Card.Text>
-        <Button variant="primary">Agregar al carrito</Button>
+        <Button variant="primary">Agregar al carrito!</Button>
       </Card.Body>
     </Card>
     </div>
