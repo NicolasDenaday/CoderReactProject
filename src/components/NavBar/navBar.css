@@ -5,6 +5,14 @@
 
 .navList {
     gap: 2rem;
-    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+.navLink {
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 1rem;
+}

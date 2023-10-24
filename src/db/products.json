@@ -1,0 +1,26 @@
+[
+   {
+    "name": "Collar floreado", 
+    "category": "Accesorio", 
+    "price": 500, 
+    "image": "../assets/collarConFlores.jpg",
+    "description": "Collar comodo y ajustable para su gato! Con seguridad antiahorque para evitar ahogamientos y materiales resistentes para evitar el desgaste.",
+     "id": 1
+    },
+
+    {
+        "name": "Rascador de cartón", 
+        "category": "Juguete", 
+        "price": 1000, 
+        "image": "../assets/rascador-para-gatos.jpg", 
+        "description": "Rascador de carton perfecto para que su gato libere el estrés acumulado y desgaste sus uñas. Hecho 100% con materiales reciclados.",
+         "id": 2
+    },
+    {"name": "Transportín con reja", 
+    "category": "Transporte", 
+    "price": 2000, 
+    "image": "../assets/transportinParaGato.jpg", 
+    "description": "Caja transportadora de plastico endurecido, reja metálica, techo removible y manija para que puedas llevar a tu gato en las mejores condiciones!", 
+    "id": 3
+    }
+]

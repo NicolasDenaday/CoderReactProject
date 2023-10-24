@@ -1,0 +1,26 @@
+.greetingContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin: 20rem;
+}
+
+
+.greetingContainer button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.7rem;
+    background-color: rgb(36, 36, 131);
+    border: none;
+    width: 10rem;
+    height: 3rem;
+    color: rgb(240, 230, 230);
+    font-size: 20px;
+}
+
+.link {
+    text-decoration: none;
+}
